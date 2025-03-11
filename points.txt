@@ -1,0 +1,7 @@
+Name, Points
+Osama, 100
+Ahmad, 120
+Sayed, 110
+Bilal, 233
+Hamed, 333
+Eman, 300

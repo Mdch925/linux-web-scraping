@@ -1,0 +1,4 @@
+URL,status,Status
+https://www.facebook.com/,200 OK,
+http://c.com,,"Error: HTTPConnectionPool(host='c.com', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(""<urllib3.connection.HTTPConnection object at 0x00000170783D0CE0>: Failed to resolve 'c.com' ([Errno 11001] getaddrinfo failed)""))"
+https://google.com,200 OK,
